@@ -56,7 +56,7 @@ Submit an answer and receive validation
 get_score()
 Retrieve the score of a user
 
-## Screenshot tampilan testnet
+## Screenshot testnet
 <img width="1259" height="836" alt="Screenshot 2026-04-20 110153" src="https://github.com/user-attachments/assets/5a7bd846-648e-45b6-b5da-409b7b6a0bdd" />
 <img width="1282" height="346" alt="Screenshot 2026-04-20 110206" src="https://github.com/user-attachments/assets/d7e6014e-866b-45d3-8718-98e8e445490d" />
 
