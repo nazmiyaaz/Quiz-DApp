@@ -1,4 +1,4 @@
-## Stellar Quiz DApp
+##Stellar Quiz DApp
 Stellar Quiz DApp - Blockchain-Based Decentralized Quiz and Scoring System
 
 ##Smart Contract Details
@@ -19,26 +19,32 @@ Ensure transparency in quiz data and results
 Prevent manipulation of scores
 Enable open participation without centralized control
 Guarantee data integrity through blockchain technology
-Key Features
-1. Create Quiz Questions
-Users can create new quiz questions
-Each question has a unique identifier
-Data is stored permanently on the blockchain
-2. Answer Questions
-Users can submit answers to existing questions
-The smart contract validates answers automatically
-Immediate feedback is returned (correct or incorrect)
-3. Score Tracking
-Each user has an individual score
-Scores increase only when answers are correct
-Scores are stored immutably on-chain
-4. Retrieve Questions
-All quiz questions can be retrieved
-Data is structured for easy integration with frontend applications
-5. Transparency and Security
-All actions are recorded on the blockchain
-Data cannot be modified without executing contract logic
-Results are publicly verifiable
+
+##Key Features
+
+### 1. Create Quiz Questions
+- Users can create new quiz questions
+- Each question has a unique identifier
+- Data is stored permanently on the blockchain
+
+### 2. Answer Questions
+- Users can submit answers to existing questions
+- The smart contract validates answers automatically
+- Immediate feedback is returned (correct or incorrect)
+
+### 3. Score Tracking
+- Each user has an individual score
+- Scores increase only when answers are correct
+- Scores are stored immutably on-chain
+
+### 4. Retrieve Questions
+- All quiz questions can be retrieved
+- Data is structured for easy integration with frontend applications
+
+### 5. Transparency and Security
+- All actions are recorded on the blockchain
+- Data cannot be modified without executing contract logic
+- Results are publicly verifiable
 
 ##Available Functions
 create_question()
@@ -49,3 +55,8 @@ answer_question()
 Submit an answer and receive validation
 get_score()
 Retrieve the score of a user
+
+##Screenshot tampilan testnet
+<img width="1259" height="836" alt="Screenshot 2026-04-20 110153" src="https://github.com/user-attachments/assets/5a7bd846-648e-45b6-b5da-409b7b6a0bdd" />
+<img width="1282" height="346" alt="Screenshot 2026-04-20 110206" src="https://github.com/user-attachments/assets/d7e6014e-866b-45d3-8718-98e8e445490d" />
+
