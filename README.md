@@ -1,7 +1,7 @@
-##Stellar Quiz DApp
+## Stellar Quiz DApp
 Stellar Quiz DApp - Blockchain-Based Decentralized Quiz and Scoring System
 
-##Smart Contract Details
+## Smart Contract Details
 Network: Stellar Testnet
 Contract Address:
 CABNRUZOVBMJPIRKJESMGW2BV2MT3BNCXLMN742YAH6WAN3MA3MYGPQH
@@ -9,18 +9,18 @@ CABNRUZOVBMJPIRKJESMGW2BV2MT3BNCXLMN742YAH6WAN3MA3MYGPQH
 Explorer:
 https://lab.stellar.org/r/testnet/contract/CABNRUZOVBMJPIRKJESMGW2BV2MT3BNCXLMN742YAH6WAN3MYGPQHa
 
-##Project Description
+## Project Description
 Stellar Quiz DApp is a decentralized smart contract built on the Stellar blockchain using the Soroban SDK. This application enables users to create quiz questions, submit answers, and track scores in a transparent and immutable environment.
 All data, including questions and user scores, is stored on-chain, ensuring that it cannot be altered or manipulated. This provides a trustless system where quiz results are verifiable and reliable without relying on centralized infrastructure.
 
-##Project Vision
+## Project Vision
 The project aims to provide a decentralized learning and evaluation system with the following objectives:
 Ensure transparency in quiz data and results
 Prevent manipulation of scores
 Enable open participation without centralized control
 Guarantee data integrity through blockchain technology
 
-##Key Features
+## Key Features
 
 ### 1. Create Quiz Questions
 - Users can create new quiz questions
@@ -46,7 +46,7 @@ Guarantee data integrity through blockchain technology
 - Data cannot be modified without executing contract logic
 - Results are publicly verifiable
 
-##Available Functions
+## Available Functions
 create_question()
 Create a new quiz question
 get_questions()
@@ -56,7 +56,7 @@ Submit an answer and receive validation
 get_score()
 Retrieve the score of a user
 
-##Screenshot tampilan testnet
+## Screenshot tampilan testnet
 <img width="1259" height="836" alt="Screenshot 2026-04-20 110153" src="https://github.com/user-attachments/assets/5a7bd846-648e-45b6-b5da-409b7b6a0bdd" />
 <img width="1282" height="346" alt="Screenshot 2026-04-20 110206" src="https://github.com/user-attachments/assets/d7e6014e-866b-45d3-8718-98e8e445490d" />
 
